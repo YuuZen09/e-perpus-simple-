@@ -1,0 +1,1 @@
+Hai semuanya!!! Ini adalah project pertamaku yang bernama e-perpus versi simple dimana pada aplikasi ini pengguna bisa masuk ke aplikasi untuk melihat lihat buku, meminjamnya, membacanya, dan mengembalikan bukunya.
