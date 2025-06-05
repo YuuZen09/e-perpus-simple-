@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnLogin" type="id" />
+    <item name="buttonpinjam" type="id"/>
+    <item name="detailtahun" type="id" />
+    <item name="detailPenerbit" type="id" />
+</resources>
